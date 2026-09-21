@@ -25,7 +25,7 @@
 ## Deutsch
 
 ### Blogs
-
+- [BitAtlas](https://www.bitatlas.de/)
 - [BitcoinBlog.de](https://bitcoinblog.de/)
 - [The Coinspondent](https://coinspondent.de/)
 
